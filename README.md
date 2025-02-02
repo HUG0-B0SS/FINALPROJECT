@@ -63,6 +63,7 @@ python3 app.py
 ```
 - Test in browser or terminal:
 ```
+sudo apt install curl
 curl http://localhost:5000/
 ```
 # 📌 Step 2: Containerize with Docker

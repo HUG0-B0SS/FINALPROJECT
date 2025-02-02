@@ -57,7 +57,7 @@ flask
 ```
 ## 4️⃣ Test Flask Locally
 ```
-sudo apt-get install python3-pip
+sudo apt install python3-pip
 pip install -r requirements.txt
 python3 app.py
 ```
@@ -93,8 +93,8 @@ networks:
 ```
 ## 3️⃣ Run Docker
 ```
-sudo apt-get update
-sudo apt-get install docker-compose-plugin
+sudo apt update
+sudo apt install docker-compose-plugin
 docker-compose up --build
 ```
 - Test:

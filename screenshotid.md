@@ -1,8 +1,10 @@
-<img width="830" alt="flask" src="https://github.com/user-attachments/assets/9b27e751-3535-477e-b405-f8e530c4d7e3" />
-
-![Screenshot 2025-02-02 001924](https://github.com/user-attachments/assets/3f520190-c2db-4a43-a259-c045ff595c3c)
-
-
-<img width="1012" alt="grafana" src="https://github.com/user-attachments/assets/6750139b-7045-47dc-b965-8e1b74c4f418" />
-<img width="732" alt="prometheus" src="https://github.com/user-attachments/assets/5817ca07-ceaa-4844-b579-0387105e4229" />
-<img width="989" alt="prometheuslisamine" src="https://github.com/user-attachments/assets/21b04ea5-6386-4952-baf7-8673529450d6" />
+## Flask:
+![Flask](https://github.com/user-attachments/assets/a4ecfd2e-3417-4809-93ad-066c61c72d66)
+## Docker
+![Docker](https://github.com/user-attachments/assets/b2d6f0cb-eb72-431e-b667-26026ef8afbf)
+## Prometheus:
+![Prometheus](https://github.com/user-attachments/assets/ec6a741e-0492-40f5-8016-415ea4d43d76)
+## Grafana:
+![Grafana](https://github.com/user-attachments/assets/017f2527-f6e6-4b10-980e-fd86e3d0e640)
+## Add prometheus to data sources
+![promlisamine](https://github.com/user-attachments/assets/2ca46172-2057-453d-9592-101cc00fcfea)

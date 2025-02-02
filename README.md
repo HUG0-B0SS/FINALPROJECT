@@ -57,8 +57,9 @@ flask
 ```
 ## 4️⃣ Test Flask Locally
 ```
+sudo apt-get install pyhton3-pip
 pip install -r requirements.txt
-python app.py
+python3 app.py
 ```
 - Test in browser or terminal:
 ```
@@ -71,7 +72,7 @@ FROM python:3.9
 WORKDIR /app
 COPY . .
 RUN pip install -r requirements.txt
-CMD ["python", "app.py"]
+CMD ["python3", "app.py"]
 ```
 ## 2️⃣ Create docker-compose.yml
 ```

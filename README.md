@@ -57,7 +57,7 @@ flask
 ```
 ## 4️⃣ Test Flask Locally
 ```
-sudo apt-get install pyhton3-pip
+sudo apt-get install python3-pip
 pip install -r requirements.txt
 python3 app.py
 ```

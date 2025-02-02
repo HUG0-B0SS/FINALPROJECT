@@ -92,6 +92,8 @@ networks:
 ```
 ## 3️⃣ Run Docker
 ```
+sudo apt-get update
+sudo apt-get install docker-compose-plugin
 docker-compose up --build
 ```
 - Test:
